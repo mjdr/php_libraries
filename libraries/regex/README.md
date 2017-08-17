@@ -1,8 +1,8 @@
-#RegEx
-##Classes
+# RegEx
+## Classes
 	Matcher - main logic like (java.util.regex.Matcher)
 
-##How to use
+## How to use
 ```php
 	$yourPattern = "";
 	$yourString = "";
